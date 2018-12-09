@@ -15,7 +15,7 @@
 
 static NCSimulatorPlugin *sharedPlugin;
 
-@interface NCSimulatorPlugin()
+@interface NCSimulatorPlugin() 
 {
     NSMenu *simulator ;
     NSMutableArray * applications;
