@@ -59,13 +59,6 @@
 			path = Classes;
 			sourceTree = "<group>";
 		};
-		8CDFB40119D1A1FD002FA708 /* Resources */ = {
-			isa = PBXGroup;
-			children = (
-			);
-			path = Resources;
-			sourceTree = "<group>";
-		};
 		D000C09718F4FF7B00C08A62 /* XcodeClasses */ = {
 			isa = PBXGroup;
 			children = (
@@ -108,7 +101,6 @@
 			isa = PBXGroup;
 			children = (
 				8CDFB3FA19D1A1FD002FA708 /* Classes */,
-				8CDFB40119D1A1FD002FA708 /* Resources */,
 				D000C09718F4FF7B00C08A62 /* XcodeClasses */,
 				D0F7B0E818F4EFF10099D3BF /* Supporting Files */,
 			);
